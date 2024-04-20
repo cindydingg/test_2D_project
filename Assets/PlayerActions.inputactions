@@ -178,7 +178,7 @@
                 {
                     "name": "",
                     "id": "179bac48-4603-4a98-9c66-8d77fa36899e",
-                    "path": "<Touchscreen>/primaryTouch/delta",
+                    "path": "<Touchscreen>/touch0/delta",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -287,8 +287,8 @@
                 },
                 {
                     "name": "",
-                    "id": "2a4ca024-f3b8-45f9-a93e-d98302bcdf73",
-                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "id": "87a1b81a-dc46-4c95-bf64-ca130364fd1b",
+                    "path": "<Touchscreen>/touch0/tap",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
